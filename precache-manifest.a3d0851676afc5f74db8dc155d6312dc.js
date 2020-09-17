@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7689c78240b877b56ef73401c751bf2f",
+    "revision": "ea39427597c38da951537f6b74f3405e",
     "url": "/webshopclient/index.html"
   },
   {
-    "revision": "ea371894949df815c56b",
+    "revision": "d3d73d1fb441b6c785a1",
     "url": "/webshopclient/static/css/2.be194de6.chunk.css"
   },
   {
-    "revision": "3560c8a016c65c2ed2a6",
+    "revision": "e5fa9e32a1668ab26886",
     "url": "/webshopclient/static/css/main.df07c644.chunk.css"
   },
   {
-    "revision": "ea371894949df815c56b",
-    "url": "/webshopclient/static/js/2.3dcc03ad.chunk.js"
+    "revision": "d3d73d1fb441b6c785a1",
+    "url": "/webshopclient/static/js/2.7eca767f.chunk.js"
   },
   {
     "revision": "67e6336f7633796dce809dae6e7fcde8",
-    "url": "/webshopclient/static/js/2.3dcc03ad.chunk.js.LICENSE.txt"
+    "url": "/webshopclient/static/js/2.7eca767f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3560c8a016c65c2ed2a6",
-    "url": "/webshopclient/static/js/main.6b730d87.chunk.js"
+    "revision": "e5fa9e32a1668ab26886",
+    "url": "/webshopclient/static/js/main.0d61acc8.chunk.js"
   },
   {
     "revision": "ab19d8f549f30409da8fc8dfe878b463",
-    "url": "/webshopclient/static/js/main.6b730d87.chunk.js.LICENSE.txt"
+    "url": "/webshopclient/static/js/main.0d61acc8.chunk.js.LICENSE.txt"
   },
   {
     "revision": "467df629fc06cd00efdb",
@@ -116,8 +116,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webshopclient/static/media/facebook.1e80416a.svg"
   },
   {
+    "revision": "c1f628c9e4608df04bff07bb0e746ba6",
+    "url": "/webshopclient/static/media/goggleana.c1f628c9.png"
+  },
+  {
     "revision": "87be59a1f7061fc6021876aad6fee028",
     "url": "/webshopclient/static/media/google.87be59a1.svg"
+  },
+  {
+    "revision": "f660a637c5ea8ef2b00218bac3479c82",
+    "url": "/webshopclient/static/media/gpay_icon.f660a637.png"
   },
   {
     "revision": "6f4d93f7ed8b460a11404b0c8af810ad",
@@ -150,6 +158,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3c2ea25c7dd0aec4d0e92e9553084336",
     "url": "/webshopclient/static/media/order.3c2ea25c.svg"
+  },
+  {
+    "revision": "39a6d2323e4c2400e587c7fe543ae692",
+    "url": "/webshopclient/static/media/paypal.39a6d232.png"
   },
   {
     "revision": "e2582654b8e7b6c285d5017df6427d73",
