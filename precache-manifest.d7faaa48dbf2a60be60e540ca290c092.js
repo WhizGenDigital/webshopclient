@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a26c32819c70afd0c217e367221f3aa",
+    "revision": "1d06166f3fed0311255e2b1bbc13a733",
     "url": "/webshopclient/index.html"
   },
   {
-    "revision": "35ce594992ed0f3a6403",
+    "revision": "ea371894949df815c56b",
     "url": "/webshopclient/static/css/2.be194de6.chunk.css"
   },
   {
-    "revision": "9dbc46a076572611e106",
+    "revision": "059d4386d2586117bbcb",
     "url": "/webshopclient/static/css/main.df07c644.chunk.css"
   },
   {
-    "revision": "35ce594992ed0f3a6403",
-    "url": "/webshopclient/static/js/2.d548e649.chunk.js"
+    "revision": "ea371894949df815c56b",
+    "url": "/webshopclient/static/js/2.3dcc03ad.chunk.js"
   },
   {
     "revision": "67e6336f7633796dce809dae6e7fcde8",
-    "url": "/webshopclient/static/js/2.d548e649.chunk.js.LICENSE.txt"
+    "url": "/webshopclient/static/js/2.3dcc03ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9dbc46a076572611e106",
-    "url": "/webshopclient/static/js/main.fd9f6ea7.chunk.js"
+    "revision": "059d4386d2586117bbcb",
+    "url": "/webshopclient/static/js/main.ba0ace33.chunk.js"
   },
   {
     "revision": "ab19d8f549f30409da8fc8dfe878b463",
-    "url": "/webshopclient/static/js/main.fd9f6ea7.chunk.js.LICENSE.txt"
+    "url": "/webshopclient/static/js/main.ba0ace33.chunk.js.LICENSE.txt"
   },
   {
     "revision": "467df629fc06cd00efdb",
@@ -34,6 +34,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f4684414afa502d0676d17a7d882ce6e",
     "url": "/webshopclient/static/media/2.f4684414.png"
+  },
+  {
+    "revision": "7f90b6dae074eaed48d238281da91a08",
+    "url": "/webshopclient/static/media/3.7f90b6da.png"
+  },
+  {
+    "revision": "922d2c112f44bdf3177cc71fa74c7471",
+    "url": "/webshopclient/static/media/4.922d2c11.png"
+  },
+  {
+    "revision": "65e9d8becfe9cc6a1aaa1e4c2df58213",
+    "url": "/webshopclient/static/media/5.65e9d8be.png"
   },
   {
     "revision": "368685db949cddcd901ba54559a727d9",
@@ -154,14 +166,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e7c82e5c569db9d9761b13ef1384f702",
     "url": "/webshopclient/static/media/sketch.e7c82e5c.jpg"
-  },
-  {
-    "revision": "dcfcf3b77210fe85b0abc8260e6fa70e",
-    "url": "/webshopclient/static/media/team-2-800x800.dcfcf3b7.jpg"
-  },
-  {
-    "revision": "497bb3590e24c9f8b645864bfffc39b8",
-    "url": "/webshopclient/static/media/team-3-800x800.497bb359.jpg"
   },
   {
     "revision": "6ee2f7075786ab29687a72cde80092f2",
