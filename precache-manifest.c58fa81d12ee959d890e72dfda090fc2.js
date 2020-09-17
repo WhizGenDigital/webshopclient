@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d06166f3fed0311255e2b1bbc13a733",
+    "revision": "7689c78240b877b56ef73401c751bf2f",
     "url": "/webshopclient/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webshopclient/static/css/2.be194de6.chunk.css"
   },
   {
-    "revision": "059d4386d2586117bbcb",
+    "revision": "3560c8a016c65c2ed2a6",
     "url": "/webshopclient/static/css/main.df07c644.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webshopclient/static/js/2.3dcc03ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "059d4386d2586117bbcb",
-    "url": "/webshopclient/static/js/main.ba0ace33.chunk.js"
+    "revision": "3560c8a016c65c2ed2a6",
+    "url": "/webshopclient/static/js/main.6b730d87.chunk.js"
   },
   {
     "revision": "ab19d8f549f30409da8fc8dfe878b463",
-    "url": "/webshopclient/static/js/main.ba0ace33.chunk.js.LICENSE.txt"
+    "url": "/webshopclient/static/js/main.6b730d87.chunk.js.LICENSE.txt"
   },
   {
     "revision": "467df629fc06cd00efdb",
