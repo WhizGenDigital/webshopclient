@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/webshopclient/static/css/main.df07c644.chunk.css",
-    "main.js": "/webshopclient/static/js/main.3247fe5a.chunk.js",
-    "main.js.map": "/webshopclient/static/js/main.3247fe5a.chunk.js.map",
+    "main.js": "/webshopclient/static/js/main.8453ef67.chunk.js",
+    "main.js.map": "/webshopclient/static/js/main.8453ef67.chunk.js.map",
     "runtime-main.js": "/webshopclient/static/js/runtime-main.486c308d.js",
     "runtime-main.js.map": "/webshopclient/static/js/runtime-main.486c308d.js.map",
     "static/css/2.be194de6.chunk.css": "/webshopclient/static/css/2.be194de6.chunk.css",
-    "static/js/2.4f42d192.chunk.js": "/webshopclient/static/js/2.4f42d192.chunk.js",
-    "static/js/2.4f42d192.chunk.js.map": "/webshopclient/static/js/2.4f42d192.chunk.js.map",
+    "static/js/2.d548e649.chunk.js": "/webshopclient/static/js/2.d548e649.chunk.js",
+    "static/js/2.d548e649.chunk.js.map": "/webshopclient/static/js/2.d548e649.chunk.js.map",
     "index.html": "/webshopclient/index.html",
-    "precache-manifest.659ac725a8aa22a4a188ef3a4f674245.js": "/webshopclient/precache-manifest.659ac725a8aa22a4a188ef3a4f674245.js",
+    "precache-manifest.dbd95a14d3fbbe682a40c2659d6b7780.js": "/webshopclient/precache-manifest.dbd95a14d3fbbe682a40c2659d6b7780.js",
     "service-worker.js": "/webshopclient/service-worker.js",
     "static/css/2.be194de6.chunk.css.map": "/webshopclient/static/css/2.be194de6.chunk.css.map",
     "static/css/main.df07c644.chunk.css.map": "/webshopclient/static/css/main.df07c644.chunk.css.map",
-    "static/js/2.4f42d192.chunk.js.LICENSE.txt": "/webshopclient/static/js/2.4f42d192.chunk.js.LICENSE.txt",
-    "static/js/main.3247fe5a.chunk.js.LICENSE.txt": "/webshopclient/static/js/main.3247fe5a.chunk.js.LICENSE.txt",
+    "static/js/2.d548e649.chunk.js.LICENSE.txt": "/webshopclient/static/js/2.d548e649.chunk.js.LICENSE.txt",
+    "static/js/main.8453ef67.chunk.js.LICENSE.txt": "/webshopclient/static/js/main.8453ef67.chunk.js.LICENSE.txt",
     "static/media/2.png": "/webshopclient/static/media/2.f4684414.png",
     "static/media/angular.jpg": "/webshopclient/static/media/angular.368685db.jpg",
     "static/media/all.min.css": "/webshopclient/static/media/fa-solid-900.cdfec5cf.woff",
@@ -36,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.486c308d.js",
     "static/css/2.be194de6.chunk.css",
-    "static/js/2.4f42d192.chunk.js",
+    "static/js/2.d548e649.chunk.js",
     "static/css/main.df07c644.chunk.css",
-    "static/js/main.3247fe5a.chunk.js"
+    "static/js/main.8453ef67.chunk.js"
   ]
 }
