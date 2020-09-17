@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/webshopclient/static/css/main.df07c644.chunk.css",
+    "main.js": "/webshopclient/static/js/main.9ece4050.chunk.js",
+    "main.js.map": "/webshopclient/static/js/main.9ece4050.chunk.js.map",
+    "runtime-main.js": "/webshopclient/static/js/runtime-main.486c308d.js",
+    "runtime-main.js.map": "/webshopclient/static/js/runtime-main.486c308d.js.map",
+    "static/css/2.be194de6.chunk.css": "/webshopclient/static/css/2.be194de6.chunk.css",
+    "static/js/2.4f42d192.chunk.js": "/webshopclient/static/js/2.4f42d192.chunk.js",
+    "static/js/2.4f42d192.chunk.js.map": "/webshopclient/static/js/2.4f42d192.chunk.js.map",
+    "index.html": "/webshopclient/index.html",
+    "precache-manifest.3868b9e6d032fb2177a2f470ac36b08b.js": "/webshopclient/precache-manifest.3868b9e6d032fb2177a2f470ac36b08b.js",
+    "service-worker.js": "/webshopclient/service-worker.js",
+    "static/css/2.be194de6.chunk.css.map": "/webshopclient/static/css/2.be194de6.chunk.css.map",
+    "static/css/main.df07c644.chunk.css.map": "/webshopclient/static/css/main.df07c644.chunk.css.map",
+    "static/js/2.4f42d192.chunk.js.LICENSE.txt": "/webshopclient/static/js/2.4f42d192.chunk.js.LICENSE.txt",
+    "static/js/main.9ece4050.chunk.js.LICENSE.txt": "/webshopclient/static/js/main.9ece4050.chunk.js.LICENSE.txt",
+    "static/media/2.png": "/webshopclient/static/media/2.f4684414.png",
+    "static/media/angular.jpg": "/webshopclient/static/media/angular.368685db.jpg",
+    "static/media/all.min.css": "/webshopclient/static/media/fa-solid-900.cdfec5cf.woff",
+    "static/media/facebook.svg": "/webshopclient/static/media/facebook.1e80416a.svg",
+    "static/media/google.svg": "/webshopclient/static/media/google.87be59a1.svg",
+    "static/media/logo_colour.png": "/webshopclient/static/media/logo_colour.6f4d93f7.png",
+    "static/media/logo_white.png": "/webshopclient/static/media/logo_white.b025e586.png",
+    "static/media/nucleo.css": "/webshopclient/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/order.svg": "/webshopclient/static/media/order.3c2ea25c.svg",
+    "static/media/profile-cover.jpg": "/webshopclient/static/media/profile-cover.e2582654.jpg",
+    "static/media/react.jpg": "/webshopclient/static/media/react.c4eb3d0b.jpg",
+    "static/media/shopping-bag.svg": "/webshopclient/static/media/shopping-bag.055d6a90.svg",
+    "static/media/sketch.jpg": "/webshopclient/static/media/sketch.e7c82e5c.jpg",
+    "static/media/team-2-800x800.jpg": "/webshopclient/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/webshopclient/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/van.svg": "/webshopclient/static/media/van.6ee2f707.svg",
+    "static/media/vue.jpg": "/webshopclient/static/media/vue.9378e368.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.486c308d.js",
+    "static/css/2.be194de6.chunk.css",
+    "static/js/2.4f42d192.chunk.js",
+    "static/css/main.df07c644.chunk.css",
+    "static/js/main.9ece4050.chunk.js"
+  ]
+}
